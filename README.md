@@ -15,14 +15,14 @@ Our team developed a comprehensive banking database system that allows customers
     Security measures including password hashing and input validation
     HTML/CSS frontend for user interaction
   
-- Technologies Used :
+- Technologies Used:
     HTML and CSS for frontend design
     PHP for server-side scripting
     MySQL for database management
     WinSCP for file transfer
     Brackets as the primary IDE
 
--Project Structure
+- Project Structure:
 The repository contains various files demonstrating different aspects of the banking system, including:
     Database schema and normalization
     SQL queries for data analysis and retrieval
