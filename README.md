@@ -1,14 +1,19 @@
 Banking System Database Project
 
-Welcome to our Banking System Database Project! This comprehensive application aims to provide a secure and user-friendly platform for managing banking operations, including customer accounts, transactions, and card services.
+Welcome to my Banking System Database Project! This repository showcases the work I completed during a collaborative project focused on developing a robust and secure banking system application. The project demonstrates practical applications of database design, SQL querying, and web development concepts.
 
 Project Overview
-Our team has developed a robust banking database system that allows customers to access their personal banking data while ensuring the safety of their credentials through advanced security measures. The project encompasses various aspects of modern banking, from account management to transaction processing and card handling.
-
+Our team developed a comprehensive banking database system that allows customers to access their personal banking data while ensuring the security of their credentials. The project encompasses various aspects of modern banking, including:
+    Customer account management
+    Transaction processing
+    Card services (Credit and Debit)
+    Security implementations
+  
 - Key Features: 
-    Customer management, Account handling (Checking and Savings)
-    Transaction processing, Card management (Credit and Debit)
-    Security implementations (Password hashing, Input validation)
+    Normalized database design
+    Complex SQL queries for data extraction and analysis
+    Security measures including password hashing and input validation
+    HTML/CSS frontend for user interaction
   
 - Technologies Used :
     HTML and CSS for frontend design
@@ -16,6 +21,13 @@ Our team has developed a robust banking database system that allows customers to
     MySQL for database management
     WinSCP for file transfer
     Brackets as the primary IDE
+
+-Project Structure
+The repository contains various files demonstrating different aspects of the banking system, including:
+    Database schema and normalization
+    SQL queries for data analysis and retrieval
+    PHP scripts for backend functionality
+    HTML/CSS files for the user interface
   
 - Database Structure: 
 The database is carefully normalized to ensure data integrity and efficiency. It includes tables for:
